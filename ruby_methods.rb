@@ -6,7 +6,7 @@ $x=50
 
 def sum
 
-print "Enter the number for addirtion:"
+print "Enter the number for addition:"
 
 y=gets.to_i
 
